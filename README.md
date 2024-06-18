@@ -11,6 +11,9 @@
   1. Kubernetes - Client einrichten
      * [Bash completion installieren](kubectl/bash-completion.md)
 
+  1. Kubernetes - Cluster API
+     * [Cluster mit Cluster-API einrichten](clusterapi/installation.md)
+
   1. Kubernetes Controlplane
      * [Renew Certificate](kubernetes-controlplane/renew-certs.md)
      * [HA-Cluster](kubernetes-controlplane/ha-cluster.md)
