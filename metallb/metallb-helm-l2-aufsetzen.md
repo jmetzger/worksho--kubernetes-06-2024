@@ -18,7 +18,7 @@ kubectl -n metallb-system get pods -o wide
 cd
 mkdir -p manifests
 cd manifests
-mkdir lb
+mkdir -p lb
 cd lb
 vi 01-addresspool.yml 
 ```
