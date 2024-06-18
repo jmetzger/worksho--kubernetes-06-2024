@@ -11,13 +11,9 @@
   1. Kubernetes - Client einrichten
      * [Bash completion installieren](kubectl/bash-completion.md)
 
-  1. Kubernetes - Cluster API
-     * [Cluster mit Cluster-API einrichten](clusterapi/installation.md)
-
-  1. Kubernetes Controlplane
-     * [Renew Certificate](kubernetes-controlplane/renew-certs.md)
-     * [HA-Cluster](kubernetes-controlplane/ha-cluster.md)
-  
+  1. Kubernetes - imperativ
+     * [Einen pod starten imperativ](/kubectl/run-with-example.md)
+ 
   1. Installation 
      * [Kubernetes mit der Cluster API aufsetzen](clusterapi/installation.md)
      * [Kubernetes mit kubadm aufsetzen (calico)](kubeadm/installation-cni-calico.md)
@@ -95,7 +91,11 @@
   1. Kubernetes - Misc 
      * [Wann wird podIP vergeben ?](kubectl/run-with-example.md)
      * [Remote-Verbindung zu Kubernetes (microk8s) einrichten](microk8s/connect-from-remote.md)
-     * [vim support for yaml](vim/vim-yaml.md)     
+     * [vim support for yaml](vim/vim-yaml.md)
+    
+  1. Kubernetes Controlplane
+     * [Renew Certificate](kubernetes-controlplane/renew-certs.md)
+     * [HA-Cluster](kubernetes-controlplane/ha-cluster.md)  
 
   1. Kubernetes - Netzwerk (CNI's) / Mesh
      * [Netzwerk Interna](/kubernetes-networks/networking-internal-overview.md)
