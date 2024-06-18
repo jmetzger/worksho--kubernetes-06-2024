@@ -8,6 +8,9 @@
      * [Ports und Protokolle](https://kubernetes.io/docs/reference/networking/ports-and-protocols/)
      * [kubelet garbage collection](kubelet-garbage-collection.md)
 
+  1. Kubernetes - Client einrichten
+     * [Bash completion installieren](kubectl/bash-completion.md)
+
   1. Kubernetes Controlplane
      * [Renew Certificate](kubernetes-controlplane/renew-certs.md)
      * [HA-Cluster](kubernetes-controlplane/ha-cluster.md)
@@ -88,7 +91,6 @@
 
   1. Kubernetes - Misc 
      * [Wann wird podIP vergeben ?](kubectl/run-with-example.md)
-     * [Bash completion installieren](kubectl/bash-completion.md)
      * [Remote-Verbindung zu Kubernetes (microk8s) einrichten](microk8s/connect-from-remote.md)
      * [vim support for yaml](vim/vim-yaml.md)     
 
