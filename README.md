@@ -1,4 +1,4 @@
-# Kubernetes Workshop (06.2024)
+# Kubernetes Workshop Seligenstadt (06.2024)
 
 ## Agenda 
 
