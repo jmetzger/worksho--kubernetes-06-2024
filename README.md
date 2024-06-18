@@ -35,13 +35,7 @@
   
   1. Kubernetes - Wartung / Debugging 
      * [Netzwerkverbindung zu pod testen](/tipps-tricks/verbindung-zu-pod-testen.md)
-
-  1. Kubernetes Backup 
-     * [Backups mit Velero](/backups/cluster-backup-velero.md)
-
-  1. Kubernetes Upgrade 
-     * [Upgrade von tanzu (Cluster API)](upgrade/vmware-vsphere-tanzu-tkg.md)
-  
+ 
   1. Monitoring with Prometheus / Grafana 
      * [Overview](prometheus/overview.md)
      * [Setup prometheus/Grafana with helm](prometheus/walkthrough-installation-setup.md)
@@ -121,6 +115,12 @@
      * [Permanente Weiterleitung mit Ingress](/kubectl-examples/05-ingress-permanent-redirect.md)
      * [ConfigMap Example](/kubectl-examples/06-configmap.md)
      * [Configmap MariaDB my.cnf](kubectl-examples/06b-mariadb-configmap-configfile.md)     
+
+  1. Kubernetes Backup 
+     * [Backups mit Velero](/backups/cluster-backup-velero.md)
+
+  1. Kubernetes Upgrade 
+     * [Upgrade von tanzu (Cluster API)](upgrade/vmware-vsphere-tanzu-tkg.md)
      
   1. Helm (Kubernetes Paketmanager) 
      * [Helm Grundlagen](/helm/grundlagen.md)
