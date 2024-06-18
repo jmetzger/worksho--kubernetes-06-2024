@@ -31,7 +31,8 @@
      * [kubectl/manifest/service](/kubectl-examples/03b-service.md)
      * [DNS - Resolution - Services](kubernetes-networks/dns-resolution-services.md)
      * DaemonSets (Devs/Ops)
-     * [Hintergrund Ingress](/kubernetes/ingress.md) 
+     * [Hintergrund Ingress](/kubernetes/ingress.md)
+     * [Ingress Controller auf Digitalocean (doks) mit helm installieren](/digitalocean/ingress-auf-digitalocean-mit-helm.md)
      * [Beispiel mit Hostnamen](/kubectl-examples/04-ingress-nginx-with-hostnames.md)
      * [Configmap MariaDB - Example](kubectl-examples/06a-configmap-mariadb.md)
     
