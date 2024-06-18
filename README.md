@@ -1,4 +1,4 @@
-# Kubernetes Advanced 
+# Kubernetes Workshop (06.2024)
 
 ## Agenda 
 
