@@ -111,8 +111,6 @@
      * [Curl from pod api-server](/kubernetes-advanced/curl-api-server.md)
 
   1. Kubernetes Praxis API-Objekte
-     * [kubectl example with run](/kubectl/run-with-example.md)
-     * [Ingress Controller auf Digitalocean (doks) mit helm installieren](/digitalocean/ingress-auf-digitalocean-mit-helm.md)
      * [Documentation for default ingress nginx](https://kubernetes.github.io/ingress-nginx/user-guide/nginx-configuration/configmap/)
      * [Beispiel Ingress](/kubectl-examples/04-ingress-nginx.md)
      * [Install Ingress On Digitalocean DOKS](/digitalocean/install-ingress-helm.md)
