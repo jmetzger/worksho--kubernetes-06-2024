@@ -37,7 +37,7 @@
      * [Configmap MariaDB - Example](kubectl-examples/06a-configmap-mariadb.md)
 
   1. Kubernetes - Tipps & Tricks
-     * 
+     * [Hängenden Namespace löschen](kubectl/delete-stuck-namespace.md)
 
   1. Kubernetes - Passwörter sicher speichern
       * [Sealed Secrets](kubernetes/secrets/sealed-secrets.md)
