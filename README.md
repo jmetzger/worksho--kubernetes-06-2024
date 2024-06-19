@@ -48,6 +48,9 @@
      * [How to get out of root-container example](/kubernetes-security/example-getting-out-of-container.md)
      * [Example Capabilities](/kubernetes-security/examples/01-capabilities.md)
      * [Example Privilege Escalation](/kubernetes-security/examples/02-privilege-escalation.md)
+    
+  1. Kubernetes NetworkPolicy 
+     * [Kubernetes NetworkPolicies](kubernetes-networkpolicy/00-simple-exercises-group.md)
      
   1. Kubernetes - Probes
      * [Überblick Probes](probes/overview.md) 
