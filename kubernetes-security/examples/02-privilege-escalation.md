@@ -88,12 +88,12 @@ spec:
   - name: my-app
     image: dockertrainereu/escalate:0.1
     securityContext:
-      allowPrivilegeEscalation: false
+      allowPrivilegeEscalation: true
 ```
 
 ```
 kubectl apply -f .
-kubectl exec -it escalate-test -- sh
+kubectl exec -it escalation-test -- sh
 ```
 
 ```
@@ -107,7 +107,7 @@ id
 ## Step 3: Do this as normal user (Test with allowPrivilegeEscalation : true) 
 
 ````
-# in pod manifest change AllowPrivilegeEscalation: true
+# in pod manifest change AllowPrivilegeEscalation: false
 ```
 
 ```
