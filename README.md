@@ -35,6 +35,10 @@
      * [Ingress Controller auf Digitalocean (doks) mit helm installieren](/digitalocean/ingress-auf-digitalocean-mit-helm.md)
      * [Beispiel mit Hostnamen](/kubectl-examples/04-ingress-nginx-with-hostnames.md)
      * [Configmap MariaDB - Example](kubectl-examples/06a-configmap-mariadb.md)
+
+  1. Kubernetes - Passwörter sicher speichern
+      * [Sealed Secrets](kubernetes/secrets/sealed-secrets.md)
+      * [HashiCorp Vault Operator](https://www.hashicorp.com/blog/vault-secrets-operator-a-new-method-for-kubernetes-integration)
     
   1. Kubernetes - Probes
      * [Überblick Probes](probes/overview.md) 
