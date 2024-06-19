@@ -1,4 +1,4 @@
-# AllowPrivilegesEscalation (Example) 
+# AllowPrivilegeEscalation (Example) 
 
 ## Prerequisites 
 
