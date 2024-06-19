@@ -13,10 +13,8 @@
 # Achtung: Immer die neueste Version von den Releases nehmen, siehe unten:
 # Install as root 
 cd /usr/src 
-# wget https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.17.5/kubeseal-0.17.5-linux-amd64.tar.gz
-# tar xzvf kubeseal-0.17.5-linux-amd64.tar.gz 
-wget https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.21.0/kubeseal-0.21.0-linux-amd64.tar.gz
-tar xzvf kubeseal-0.21.0-linux-amd64.tar.gz 
+wget https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.26.3/kubeseal-0.26.3-linux-amd64.tar.gz
+tar xzvf kubeseal-0.26.3-linux-amd64.tar.gz 
 install -m 755 kubeseal /usr/local/bin/kubeseal
 ```
 
@@ -28,7 +26,7 @@ install -m 755 kubeseal /usr/local/bin/kubeseal
 # mkdir manifests/seal-controller/ #
 # cd manifests/seal-controller
 # Neueste Version 
-wget https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.21.0/controller.yaml
+wget https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.26.3/controller.yaml
 kubectl apply -f controller.yaml 
 ```
 
