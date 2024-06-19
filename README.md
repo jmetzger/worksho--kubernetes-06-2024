@@ -38,6 +38,7 @@
 
   1. Kubernetes - Tipps & Tricks
      * [Hängenden Namespace löschen](kubectl/delete-stuck-namespace.md)
+     * [kubectl kubeconfig mergen](/kubectl/merge-kubeconfig.md)
 
   1. Kubernetes - Passwörter sicher speichern
       * [Sealed Secrets](kubernetes/secrets/sealed-secrets.md)
@@ -54,6 +55,8 @@
     
   1. Kubernetes NetworkPolicy 
      * [Kubernetes NetworkPolicies](kubernetes-networkpolicy/00-simple-exercises-group.md)
+
+## Backlog 
      
   1. Kubernetes - Probes
      * [Überblick Probes](probes/overview.md) 
@@ -66,9 +69,6 @@
      * [Setup prometheus/Grafana with helm](prometheus/walkthrough-installation-setup.md)
      * [exporters mongodb](prometheus/exporters-and-mongodb.md)
      * [Good Kubernetes Board for Grafana](prometheus/grafana/good-board.md)
-     
-  1. Kubernetes Tipps & Tricks 
-     * [kubectl kubeconfig mergen](/kubectl/merge-kubeconfig.md)
 
   1. Kubernetes Certificates (Control Plane) / Security
      * [vmware - cluster api](https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid/1.6/vmware-tanzu-kubernetes-grid-16/GUID-cluster-lifecycle-secrets.html)
@@ -104,8 +104,6 @@
      * [Istion Überblick - egress und ingress - gateway](/istio/02-overview-ingress-egress-gateway.md)
      * [Istio - Deployment of simple application](istio/03-deploy-first-app.md)
      * [Istio - Grafana Dashboard](istio/04-grafana-dashboard.md)
-
-## Backlog 
 
   1. Kubernetes - Misc 
      * [Wann wird podIP vergeben ?](kubectl/run-with-example.md)
