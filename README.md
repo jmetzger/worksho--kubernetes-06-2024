@@ -16,7 +16,7 @@
  
   1. Installation 
      * [Kubernetes mit der Cluster API aufsetzen](clusterapi/installation.md)
-     * [Kubernetes mit kubadm aufsetzen (calico)](kubeadm/installation-cni-calico.md)
+     * [Kubernetes mit kubeadm aufsetzen (calico)](kubeadm/installation-cni-calico.md)
     
   1. Installation LoadBalancer metallb
      * [Install LoadBalancer metallb in on-premise cluster](/metallb/metallb-helm-l2-aufsetzen.md)
@@ -39,7 +39,11 @@
   1. Kubernetes - Passwörter sicher speichern
       * [Sealed Secrets](kubernetes/secrets/sealed-secrets.md)
       * [HashiCorp Vault Operator](https://www.hashicorp.com/blog/vault-secrets-operator-a-new-method-for-kubernetes-integration)
-    
+
+  1. Kubernetes SharedVolumes (CSI)
+     * [Overview](kubernetes-csi/overview.md)
+     * [NFS-Exercise](kubernetes-csi/nfs-exercise.md)
+     
   1. Kubernetes - Probes
      * [Überblick Probes](probes/overview.md) 
   
