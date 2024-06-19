@@ -58,6 +58,7 @@
     
   1. Kubernetes NetworkPolicy 
      * [Kubernetes NetworkPolicies](kubernetes-networkpolicy/00-simple-exercises-group.md)
+     * [NetworkPolicy Generic for Calico CNI](kubernetes-networkpolicy/calico/example-only-traffic-ingress-restricted-in-namespace/example.md)
 
 ## Backlog 
      
