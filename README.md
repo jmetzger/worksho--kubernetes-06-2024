@@ -53,6 +53,9 @@
      * [Example Capabilities](/kubernetes-security/examples/01-capabilities.md)
      * [Example Privilege Escalation](/kubernetes-security/examples/02-privilege-escalation.md)
     
+  1. Kubernetes PSA (PodSecurityAdmission)
+     * [Pod Security Admission (PSA)](/kubernetes-security/pod-security-admission.md)
+    
   1. Kubernetes NetworkPolicy 
      * [Kubernetes NetworkPolicies](kubernetes-networkpolicy/00-simple-exercises-group.md)
 
@@ -72,7 +75,6 @@
 
   1. Kubernetes Certificates (Control Plane) / Security
      * [vmware - cluster api](https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid/1.6/vmware-tanzu-kubernetes-grid-16/GUID-cluster-lifecycle-secrets.html)
-     * [Pod Security Admission (PSA)](/kubernetes-security/pod-security-admission.md)
      * [Pod Security Policy (PSP)](/kubernetes-security/pod-security-policy.md)
 
   1. Kubernetes Network / Firewall 
