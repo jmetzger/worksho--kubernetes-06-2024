@@ -17,8 +17,11 @@ spec:
       command: ["sh", "-c", "sleep 3600"]
       securityContext:
         capabilities:
-          add:
-            - NET_RAW
           drop:
-            - CAP_CHOWN
+            - NET_RAW
+```
+
+```
+kubectl apply -f .
+# ping does not work now in container
 ```
